@@ -3,17 +3,17 @@
 🎯 Objective
 Analyze Diwali sales data to identify purchasing trends, high-value customers, and key target segments for marketing, to help businesses optimize sales strategies during the festive season.
 
-📊 Key Insights
-✅ Top States by Sales
-Maharashtra, Karnataka, and Uttar Pradesh contributed the highest sales.
-Maharashtra alone accounted for approximately 15% of total sales.
+📊 Key Insights  
+✅ Top States by Sales  
+Maharashtra, Karnataka, and Uttar Pradesh contributed the highest sales.  
+Maharashtra alone accounted for approximately 15% of total sales.  
 
-✅ Gender-wise Spending
-Males contributed 65% of total sales value, suggesting male customers were more active or spent higher amounts during Diwali.
+✅ Gender-wise Spending  
+Males contributed 65% of total sales value, suggesting male customers were more active or spent higher amounts during Diwali.  
 
-✅ Age Group Trends
-26–35 age group dominated purchases with over 40% of sales volume.
-Younger customers (18–25) and older customers (>45) spent less comparatively.
+✅ Age Group Trends  
+26–35 age group dominated purchases with over 40% of sales volume.  
+Younger customers (18–25) and older customers (>45) spent less comparatively.  
 
 ✅ Marital Status Analysis
 Married customers generated 60% of total sales value, indicating family shopping drives higher spending.
